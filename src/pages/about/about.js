@@ -1,6 +1,7 @@
 import React from "react";
 import FrameContainer from "../../components/frameContainer/frameContainer";
-import MyImage from "../../assets/sammyfattah.JPG";
+// import MyImage from "../../assets/sammyfattah.JPG";
+import MyImage from "../../assets/maddienbrett.png";
 import "./about.css";
 export default function About(props) {
   return (
@@ -53,7 +54,7 @@ export default function About(props) {
         </p>
       </div>
       <FrameContainer>
-        <img src={MyImage} alt="Sammy" />
+        <img src={MyImage} alt="Maddie" />
       </FrameContainer>
     </div>
   );
