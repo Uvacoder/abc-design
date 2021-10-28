@@ -18,7 +18,7 @@ export default function Footer(props) {
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/in/sammy-fattah-98a77015a/"
+            href="https://www.linkedin.com/in/alecbcampbell/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function Footer(props) {
         </li>
         <li>
           <a
-            href="https://github.com/Buupu"
+            href="https://github.com/uvacoder"
             target="_blank"
             rel="noopener noreferrer"
           >
